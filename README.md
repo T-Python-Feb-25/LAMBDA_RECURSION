@@ -6,7 +6,7 @@
 #### Example: given the phrase `I love python` , it should return : `4` 
 
 
-## 2) Given a list of numbers : `[40,35, 10, 15, 20]`
+## 2) Given a list of numbers : `[40,35,10,15,20]
 
 #### create a new list containing each number from the previous list mutliplied by itself.
 #### print the new list.
