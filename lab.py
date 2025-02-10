@@ -16,4 +16,5 @@ print(vowels_counter('I love python')) # 4
 #### Note: use `map()` with a `lambda funciton`
 
 numbers = [40,35, 10, 15, 20]
-new_list = list(map(lambda x: x*x, numbers))
+new_list = list(map(lambda x: x*x, numbers)) #The map function applies a given function to each item of an iterable
+print(new_list) 
